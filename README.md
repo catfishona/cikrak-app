@@ -2,6 +2,8 @@
 
 > Cikrak is a waste pick-up web-application that aims to raise awareness on the importance of waste management and the negative impacts poor waste management has on the environment. We stand by one mission: to make waste management easy, accessible, and mainstream.
 
+> Check out the live demo [here](https://cikrak-project.vercel.app/)!
+
 ![homepage](./docs/image/homepage.jpeg)
 
 ## Features
